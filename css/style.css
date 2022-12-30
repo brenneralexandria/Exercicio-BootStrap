@@ -1,0 +1,20 @@
+body {
+    font: 20px Ariel, sans-serif;
+}
+.navbar {
+    background-color: #294492;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.galeria {
+    background-color: #4a62a9;
+    color: white;
+}
+
+.titulos {
+    background-color: aquamarine;
+}
